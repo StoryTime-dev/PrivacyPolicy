@@ -1,4 +1,4 @@
-In order to ensure smooth usage of the app for all users, we require the creation of accounts. These accounts will be coupled to their email-adres.
+In order to ensure smooth usage of the StoryTime app for all users, we require the creation of accounts. These accounts will be coupled to their email-adres.
 The email-adres with which users are able to login, and their corresponding passwords are bundled in a single file which is saved on a GitHub repository.
 This repository, and the account it belongs to, are especially created for the StoryTime app and are therefore highly secured using a two-step authentication. Therefore, in order to access this data the phone of the developer and a cryptic password are required.
 A safety key enables the app to extract said data for login-usage.
@@ -6,4 +6,6 @@ A safety key enables the app to extract said data for login-usage.
 Furthermore, personal preference data is saved in the GitHub repository. This includes but is not limited to desired text characteristics, language, users and background preferences. This functionality is added for consistent usage between devices.
 Considering that the application may not at all times have a connection to the internet, a file is saved on the device which also contains these settings.
 
-Even though the developer of StoryTime strives to keep all data as safe as possible, it is still recommended to never passwords that are used by any other devices or apps.
+Even though the developer of StoryTime strives to keep all data as safe as possible, it is still recommended to never use passwords for the StoryTime app that are used by any other devices or apps.
+
+In the future saved email adresses may enable password retrieval functions, which is reason for us saving this data. If at anytime one desires that we delete this data you can contact us at: Story.info.time@gmail.com. Feel free to contact us at that email adres with any other questions.
